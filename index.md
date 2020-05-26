@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my page
 
-I'm glad you are here. I plan to talk about ...
+My thoughts and certain aspects of my life that I want to show off, in a nutshell. 

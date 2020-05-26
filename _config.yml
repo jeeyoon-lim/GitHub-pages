@@ -10,5 +10,5 @@ github_username:  jeeyoon-lim # DO NOT include the @ character, or else the buil
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: dinky
+theme: minima
 
